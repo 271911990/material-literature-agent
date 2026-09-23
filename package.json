@@ -1,0 +1,17 @@
+{
+    "name": "material-literature-agent",
+    "version": "1.0.0",
+    "description": "A Pi subagent for materials science literature analysis.",
+    "keywords": [
+      "pi-package",
+      "subagent",
+      "materials-science",
+      "literature-analysis"
+    ],
+    "license": "MIT",
+    "pi": {
+      "extensions": [
+        "./extensions/material-literature-agent.ts"
+      ]
+    }
+  }
