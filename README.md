@@ -22,9 +22,13 @@ Material Literature Agent 主要完成以下任务：
 
 ```text
 material-literature-agent/
-├── package.json
-├── README.md
 ├── agents/
 │   └── material-literature.md
-└── extensions/
-    └── material-literature-agent.ts
+├── extensions/
+│   └── material-literature-agent.ts
+├── package.json
+├── README.md
+├── LICENSE
+├── 锂离子电池正极材料磷酸铁锂的研究进展_王甲泰_2104834922995011584.md
+└── 材料文献分析 Agent 实验报告.md
+```
